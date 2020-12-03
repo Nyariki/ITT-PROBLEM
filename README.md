@@ -59,10 +59,4 @@ i. Log the program-based task(s) time, task(s) type, task(s) message, actual tim
 ii. Respond with a display message of the current due task(s) with respect to he time received from the wall clock. (sample provided)
 iii. For each task, generate and respond with new color(s) for the appropriate section(s) as noted in (iii) b, (iii) c and (iii) d above. The new color MUST be different from the previous color.
 
-Zipped file containing:
-
-i. Readme file with requirements and instructions on how to run the software.^
-ii. Artifact of your software (where applicable).
-iii. Software code.
-
 
